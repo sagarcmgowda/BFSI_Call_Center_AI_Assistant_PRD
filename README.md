@@ -2,7 +2,7 @@
 
 ---
 
-# How To Run Properly
+# How To Run
 
 ```bash
 python -m venv venv
