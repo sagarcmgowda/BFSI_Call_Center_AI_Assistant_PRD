@@ -15,30 +15,6 @@ uvicorn app.main:app
 
 ---
 
-## Activate Virtual Environment
-
-```bash
-venv\Scripts\activate
-```
-
----
-
-## STEP 2 — Install FAISS Inside venv
-
-```bash
-pip install faiss-cpu
-```
-
----
-
-## Step — Build Dataset Index
-
-```bash
-python scripts/build_dataset_index.py
-```
-
----
-
 # 1. BFSI Call Center AI Assistant
 
 ## Project Overview
