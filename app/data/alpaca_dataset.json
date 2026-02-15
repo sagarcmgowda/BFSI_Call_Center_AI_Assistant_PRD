@@ -1,0 +1,757 @@
+[
+  {
+    "instruction": "What are the eligibility criteria for a Personal Loan?",
+    "input": "",
+    "output": "Eligibility for a Personal Loan depends on age, income stability, credit profile, and internal verification policies. Final approval is subject to assessment."
+  },
+  {
+    "instruction": "How can I track my Personal Loan application status?",
+    "input": "",
+    "output": "You can track your loan application status through the customer portal or by contacting support with your application reference number."
+  },
+  {
+    "instruction": "What documents are required for a Personal Loan?",
+    "input": "",
+    "output": "Required documents generally include identity proof, address proof, income documents, and bank statements, subject to internal policy."
+  },
+  {
+    "instruction": "Can I prepay my Personal Loan?",
+    "input": "",
+    "output": "Prepayment policies depend on loan type and agreement terms. Please refer to your sanction letter or contact support for details."
+  },
+  {
+    "instruction": "What is the tenure for a Personal Loan?",
+    "input": "",
+    "output": "Loan tenure depends on the loan category and internal approval guidelines."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a Home Loan?",
+    "input": "",
+    "output": "Eligibility for a Home Loan depends on age, income stability, credit profile, and internal verification policies. Final approval is subject to assessment."
+  },
+  {
+    "instruction": "How can I track my Home Loan application status?",
+    "input": "",
+    "output": "You can track your loan application status through the customer portal or by contacting support with your application reference number."
+  },
+  {
+    "instruction": "What documents are required for a Home Loan?",
+    "input": "",
+    "output": "Required documents generally include identity proof, address proof, income documents, and bank statements, subject to internal policy."
+  },
+  {
+    "instruction": "Can I prepay my Home Loan?",
+    "input": "",
+    "output": "Prepayment policies depend on loan type and agreement terms. Please refer to your sanction letter or contact support for details."
+  },
+  {
+    "instruction": "What is the tenure for a Home Loan?",
+    "input": "",
+    "output": "Loan tenure depends on the loan category and internal approval guidelines."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a Education Loan?",
+    "input": "",
+    "output": "Eligibility for a Education Loan depends on age, income stability, credit profile, and internal verification policies. Final approval is subject to assessment."
+  },
+  {
+    "instruction": "How can I track my Education Loan application status?",
+    "input": "",
+    "output": "You can track your loan application status through the customer portal or by contacting support with your application reference number."
+  },
+  {
+    "instruction": "What documents are required for a Education Loan?",
+    "input": "",
+    "output": "Required documents generally include identity proof, address proof, income documents, and bank statements, subject to internal policy."
+  },
+  {
+    "instruction": "Can I prepay my Education Loan?",
+    "input": "",
+    "output": "Prepayment policies depend on loan type and agreement terms. Please refer to your sanction letter or contact support for details."
+  },
+  {
+    "instruction": "What is the tenure for a Education Loan?",
+    "input": "",
+    "output": "Loan tenure depends on the loan category and internal approval guidelines."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a Car Loan?",
+    "input": "",
+    "output": "Eligibility for a Car Loan depends on age, income stability, credit profile, and internal verification policies. Final approval is subject to assessment."
+  },
+  {
+    "instruction": "How can I track my Car Loan application status?",
+    "input": "",
+    "output": "You can track your loan application status through the customer portal or by contacting support with your application reference number."
+  },
+  {
+    "instruction": "What documents are required for a Car Loan?",
+    "input": "",
+    "output": "Required documents generally include identity proof, address proof, income documents, and bank statements, subject to internal policy."
+  },
+  {
+    "instruction": "Can I prepay my Car Loan?",
+    "input": "",
+    "output": "Prepayment policies depend on loan type and agreement terms. Please refer to your sanction letter or contact support for details."
+  },
+  {
+    "instruction": "What is the tenure for a Car Loan?",
+    "input": "",
+    "output": "Loan tenure depends on the loan category and internal approval guidelines."
+  },
+  {
+    "instruction": "What are the eligibility criteria for a Gold Loan?",
+    "input": "",
+    "output": "Eligibility for a Gold Loan depends on age, income stability, credit profile, and internal verification policies. Final approval is subject to assessment."
+  },
+  {
+    "instruction": "How can I track my Gold Loan application status?",
+    "input": "",
+    "output": "You can track your loan application status through the customer portal or by contacting support with your application reference number."
+  },
+  {
+    "instruction": "What documents are required for a Gold Loan?",
+    "input": "",
+    "output": "Required documents generally include identity proof, address proof, income documents, and bank statements, subject to internal policy."
+  },
+  {
+    "instruction": "Can I prepay my Gold Loan?",
+    "input": "",
+    "output": "Prepayment policies depend on loan type and agreement terms. Please refer to your sanction letter or contact support for details."
+  },
+  {
+    "instruction": "What is the tenure for a Gold Loan?",
+    "input": "",
+    "output": "Loan tenure depends on the loan category and internal approval guidelines."
+  },
+  {
+    "instruction": "What is the minimum balance requirement for a Savings Account?",
+    "input": "",
+    "output": "Minimum balance requirements vary based on account type and location. Please refer to official documentation for updated details."
+  },
+  {
+    "instruction": "How can I open a Savings Account?",
+    "input": "",
+    "output": "You can open an account through digital onboarding or by visiting the nearest branch with valid KYC documents."
+  },
+  {
+    "instruction": "How to close a Savings Account?",
+    "input": "",
+    "output": "To close your account, submit a closure request along with required verification at your branch or through authorized channels."
+  },
+  {
+    "instruction": "How to update nominee in Savings Account?",
+    "input": "",
+    "output": "Nominee details can be updated through the customer portal or by submitting a written request."
+  },
+  {
+    "instruction": "What is the minimum balance requirement for a Current Account?",
+    "input": "",
+    "output": "Minimum balance requirements vary based on account type and location. Please refer to official documentation for updated details."
+  },
+  {
+    "instruction": "How can I open a Current Account?",
+    "input": "",
+    "output": "You can open an account through digital onboarding or by visiting the nearest branch with valid KYC documents."
+  },
+  {
+    "instruction": "How to close a Current Account?",
+    "input": "",
+    "output": "To close your account, submit a closure request along with required verification at your branch or through authorized channels."
+  },
+  {
+    "instruction": "How to update nominee in Current Account?",
+    "input": "",
+    "output": "Nominee details can be updated through the customer portal or by submitting a written request."
+  },
+  {
+    "instruction": "What is the minimum balance requirement for a Salary Account?",
+    "input": "",
+    "output": "Minimum balance requirements vary based on account type and location. Please refer to official documentation for updated details."
+  },
+  {
+    "instruction": "How can I open a Salary Account?",
+    "input": "",
+    "output": "You can open an account through digital onboarding or by visiting the nearest branch with valid KYC documents."
+  },
+  {
+    "instruction": "How to close a Salary Account?",
+    "input": "",
+    "output": "To close your account, submit a closure request along with required verification at your branch or through authorized channels."
+  },
+  {
+    "instruction": "How to update nominee in Salary Account?",
+    "input": "",
+    "output": "Nominee details can be updated through the customer portal or by submitting a written request."
+  },
+  {
+    "instruction": "My Credit Card is lost. What should I do?",
+    "input": "",
+    "output": "Please block your card immediately via mobile banking, internet banking, or customer support."
+  },
+  {
+    "instruction": "How can I reset the PIN of my Credit Card?",
+    "input": "",
+    "output": "You can reset your card PIN through ATM, internet banking, or mobile application."
+  },
+  {
+    "instruction": "How to enable international usage for Credit Card?",
+    "input": "",
+    "output": "International usage can be enabled through the card management section in mobile or internet banking."
+  },
+  {
+    "instruction": "My Debit Card is lost. What should I do?",
+    "input": "",
+    "output": "Please block your card immediately via mobile banking, internet banking, or customer support."
+  },
+  {
+    "instruction": "How can I reset the PIN of my Debit Card?",
+    "input": "",
+    "output": "You can reset your card PIN through ATM, internet banking, or mobile application."
+  },
+  {
+    "instruction": "How to enable international usage for Debit Card?",
+    "input": "",
+    "output": "International usage can be enabled through the card management section in mobile or internet banking."
+  },
+  {
+    "instruction": "How to file a claim for Life Insurance?",
+    "input": "",
+    "output": "Claims can be filed through the official claims portal by submitting required documentation."
+  },
+  {
+    "instruction": "What does Life Insurance cover?",
+    "input": "",
+    "output": "Life Insurance coverage depends on policy terms and conditions. Please refer to your policy document for complete details."
+  },
+  {
+    "instruction": "How to file a claim for Health Insurance?",
+    "input": "",
+    "output": "Claims can be filed through the official claims portal by submitting required documentation."
+  },
+  {
+    "instruction": "What does Health Insurance cover?",
+    "input": "",
+    "output": "Health Insurance coverage depends on policy terms and conditions. Please refer to your policy document for complete details."
+  },
+  {
+    "instruction": "How to file a claim for Motor Insurance?",
+    "input": "",
+    "output": "Claims can be filed through the official claims portal by submitting required documentation."
+  },
+  {
+    "instruction": "What does Motor Insurance cover?",
+    "input": "",
+    "output": "Motor Insurance coverage depends on policy terms and conditions. Please refer to your policy document for complete details."
+  },
+  {
+    "instruction": "How to reset internet banking password?",
+    "input": "",
+    "output": "For security reasons, never share OTPs or passwords. Contact customer support immediately if you suspect unauthorized activity."
+  },
+  {
+    "instruction": "Is it safe to share OTP?",
+    "input": "",
+    "output": "For security reasons, never share OTPs or passwords. Contact customer support immediately if you suspect unauthorized activity."
+  },
+  {
+    "instruction": "How to report suspicious transaction?",
+    "input": "",
+    "output": "For security reasons, never share OTPs or passwords. Contact customer support immediately if you suspect unauthorized activity."
+  },
+  {
+    "instruction": "What is two-factor authentication?",
+    "input": "",
+    "output": "For security reasons, never share OTPs or passwords. Contact customer support immediately if you suspect unauthorized activity."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "General banking assistance",
+    "input": "",
+    "output": "For detailed assistance, please contact customer support or refer to official documentation."
+  },
+  {
+    "instruction": "How to file a claim for Life Insurance?",
+    "input": "",
+    "output": "EMI is calculated using the standard amortization formula considering principal, interest rate, and tenure."
+  }
+]
